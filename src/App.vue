@@ -70,7 +70,7 @@ export default {
 
         }
 
-      },30000)
+      },20000)
 
     },
     changeClick(){
